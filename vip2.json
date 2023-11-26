@@ -3,12 +3,9 @@
 
 
 
-"spider":"./jar/vip.jar",
+"spider":"https://raw.nuaa.cf/jar/vip.jar",
 
-"lives":[
-
-
-    
+"lives":[   
 {
       "name": "live",
       "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/pro.txt",
