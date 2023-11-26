@@ -10,7 +10,7 @@
             "name": "🏄️荷城茶秀"
         }, 
           {
-            "url":"https://raw.nuaa.cf//gaotianliuyun/gao/master/js.json",
+            "url":"https://raw.nuaa.cf/gaotianliuyun/gao/master/js.json",
             "name": "🏄️高天流云"
         }, 
           {
